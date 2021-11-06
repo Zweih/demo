@@ -1,8 +1,55 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "channels": [
+    {
+      "id": 0,
+      "title": "Trending",
+      "playlistUrl": ""
+    },
+    {
+      "id": 1,
+      "title": "WTF",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLNQr54Pnsz-_jx0SOFxzvc6z3oQHo7QfS"
+    },
+    {
+      "id": 2,
+      "title": "Sports",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLNQr54Pnsz-9tRaPEIwjVafFnEHLhhJw"
+    },
+    {
+      "id": 3,
+      "title": "Music",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLNQr54Pnsz-_sOatw-tYinYXiVEkQEHu9"
+    },
+    {
+      "id": 4,
+      "title": "Shopping",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLNQr54Pnsz-85-ApXtkuqeGiat5aPnZxq"
+    },
+    {
+      "id": 5,
+      "title": "Beauty",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLNQr54Pnsz-8Xvl48tRfeyFTW6EnrSip_"
+    },
+    {
+      "id": 6,
+      "title": "Style",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLNQr54Pnsz--7cIPc0oMr0NmIXdcb-GCD"
+    },
+    {
+      "id": 7,
+      "title": "Comedy",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLNQr54Pnsz-937WevG3BniSeMuOvITMFu"
+    },
+    {
+      "id": 8,
+      "title": "Science",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLNQr54Pnsz-8HxxdFKRyITvp2FNvAeQty"
+    },
+    {
+      "id": 9,
+      "title": "Tech",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLNQr54Pnsz-8CNvY_a063Nd2vJiHthL1J"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
